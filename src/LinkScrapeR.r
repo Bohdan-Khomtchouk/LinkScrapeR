@@ -1,3 +1,5 @@
+Copyright (c) 2016 Bohdan Khomtchouk
+
 require(XML)
 
 url <- "http://www.some_URL.com"	#specify your URL
